@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/Ak_Bot_SupportGroup')
+                InlineKeyboardButton('🤖 Updates', url='https://t.me/MovieHub_2k22')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -44,10 +44,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('👨‍💻 DEV', url='https://t.me/IAM_A_JOKER'),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/Ak_Bot_SupportGroup')
+            InlineKeyboardButton('👨‍💻 DEV', url='https://t.me/akhil_tg'),
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/MovieHub_2k22')
             ],[
-            InlineKeyboardButton('👨‍💻 Creators', url='https://t.me/Ak_Bot_SupportGroup'),
+            InlineKeyboardButton('👨‍💻 Creator', url='https://t.me/akhil_tg'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
             InlineKeyboardButton('👥 Admins', callback_data='admins'),
@@ -88,12 +88,12 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/CC_autobot?startgroup=true')
+            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/DianaV4_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('👨‍💻 DEV', url='https://t.me/IAM_A_JOKER'),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/Ak_Bot_SupportGroup')
+            InlineKeyboardButton('👨‍💻 DEV', url='https://t.me/akhil_tg'),
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/MovieHub_2k22')
             ],[
-            InlineKeyboardButton('👨‍💻 Creators', url='https://t.me/Ak_Bot_SupportGroup'),
+            InlineKeyboardButton('👨‍💻 Creator', url='https://t.me/akhil_tg'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
             InlineKeyboardButton('👥 Admins', callback_data='admins'),
