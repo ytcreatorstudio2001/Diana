@@ -11,8 +11,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- LUCIFER is a open source project. 
-- Source - https://github.com/Akbotmakersnew/LUCIFER  
+- DIANA is a open source project. 
+- Source - https://t.me/MovieHub_2k22  
 
 <b>DEVS:</b>
 - <a href=https://t.me/MovieHub_2k22>Team DianaBotDev's</a>"""
