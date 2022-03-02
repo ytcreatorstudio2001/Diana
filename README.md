@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+AkBotDev's+Repo!;created+by+JOKER+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+DianaBotDev's+Repo!;created+by+Akhil+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
 <p align="center">
   <img src="assets/logo(1).jpg" alt="Akbotmakersnew Logo">
 </p>
@@ -38,7 +38,7 @@
 ## Deploy
 You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://railway.app)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LUCIFER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ytcreatorstudio2001/Diana)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAkbotmakersnew%2FLUCIFER)
 
