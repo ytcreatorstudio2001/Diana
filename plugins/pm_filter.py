@@ -406,10 +406,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('👥 DEVS', url='https://t.me/Ak_Bot_SupportGroup'),
-            InlineKeyboardButton('🤖 Support', url='https://t.me/Ak_Bot_SupportGroup')
+            InlineKeyboardButton('👥 DEV', url='https://t.me/akhil_tg'),
+            InlineKeyboardButton('🤖 Support', url='https://t.me/MovieHub_2k22')
         ], [
-            InlineKeyboardButton('👨‍💻 Creator', url='https://t.me/IAM_A_JOKER'),
+            InlineKeyboardButton('👨‍💻 Creator', url='https://t.me/akhil_tg'),
             InlineKeyboardButton('😊 About', callback_data='about')
         ], [
             InlineKeyboardButton('👥 Admins', callback_data='admins'),
@@ -441,8 +441,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🤖 Support', url='https://t.me/Ak_Bot_SupportGroup'),
-            InlineKeyboardButton('♥️ Source', url='https://github.com/Akbotmakersnew/LUCIFER')
+            InlineKeyboardButton('🤖 Support', url='https://t.me/MovieHub_2k22'),
+            InlineKeyboardButton('♥️ Source', url='https://t.me/MovieHub_2k22')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
